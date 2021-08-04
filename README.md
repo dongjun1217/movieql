@@ -7,11 +7,4 @@ Movie API with GraphQL
 
 3.http://localhost:4000/ -> 접속
 
-4.
-Query{
-  movies{
-      id
-      title
-      rating
-  }
-}
+4.GraphQL 입력
